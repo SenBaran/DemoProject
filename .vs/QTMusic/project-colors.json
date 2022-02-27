@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ba6d589-2d38-4527-bd59-b827dab0d5f4": {
+      "ProjectGuid": "4ba6d589-2d38-4527-bd59-b827dab0d5f4",
+      "DisplayName": "QTMusic.Logic",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f32ea400-bbcc-4f3c-8a2b-882a20c9c1e8": {
+      "ProjectGuid": "f32ea400-bbcc-4f3c-8a2b-882a20c9c1e8",
+      "DisplayName": "QTMusic.AspMvc",
+      "ColorIndex": 1
+    },
+    "ba9f6754-9315-4674-ab53-34cb4bb5f30b": {
+      "ProjectGuid": "ba9f6754-9315-4674-ab53-34cb4bb5f30b",
+      "DisplayName": "QTMusic.ConApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

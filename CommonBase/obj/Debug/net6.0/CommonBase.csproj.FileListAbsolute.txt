@@ -1,0 +1,11 @@
+C:\Users\baran\Desktop\QTMusic\CommonBase\bin\Debug\net6.0\CommonBase.deps.json
+C:\Users\baran\Desktop\QTMusic\CommonBase\bin\Debug\net6.0\CommonBase.dll
+C:\Users\baran\Desktop\QTMusic\CommonBase\bin\Debug\net6.0\ref\CommonBase.dll
+C:\Users\baran\Desktop\QTMusic\CommonBase\bin\Debug\net6.0\CommonBase.pdb
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfo.cs
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.dll
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\ref\CommonBase.dll
+C:\Users\baran\Desktop\QTMusic\CommonBase\obj\Debug\net6.0\CommonBase.pdb

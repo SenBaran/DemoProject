@@ -1,0 +1,15 @@
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\QTMusic.Logic.deps.json
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\QTMusic.Logic.dll
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\ref\QTMusic.Logic.dll
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\QTMusic.Logic.pdb
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\CommonBase.dll
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\bin\Debug\net6.0\CommonBase.pdb
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.AssemblyInfo.cs
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.csproj.CopyComplete
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.dll
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\ref\QTMusic.Logic.dll
+C:\Users\baran\Desktop\QTMusic\QTMusic.Logic\obj\Debug\net6.0\QTMusic.Logic.pdb
